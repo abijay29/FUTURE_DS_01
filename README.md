@@ -27,31 +27,31 @@ Number of Customers
 
 📊 Dashboard Features
 
-Sales & Profit overview using KPI cards
+Sales & Profit overview using KPI cards.
 
-Monthly sales trend analysis
+Monthly sales trend analysis.
 
-Sales by category, segment, region, and ship mode
+Sales by category, segment, region, and ship mode.
 
-Geographic sales distribution using map visualization
+Geographic sales distribution using map visualization.
 
-Profit margin analysis by category
+Profit margin analysis by category.
 
-Discount vs Profit scatter analysis to understand pricing impact
+Discount vs Profit scatter analysis to understand pricing impact.
 
 💡 Key Insights
 
-Technology category generates the highest sales and profit margins
+Technology category generates the highest sales and profit margins.
 
-Higher discounts generally reduce profitability, especially in Furniture
+Higher discounts generally reduce profitability, especially in Furniture.
 
-Sales show clear seasonal trends across months
+Sales show clear seasonal trends across months.
 
-Certain regions and cities contribute disproportionately to total revenue
+Certain regions and cities contribute disproportionately to total revenue.
 
 📂 Dataset
 
-Public e-commerce sales dataset (CSV format)
+Public e-commerce sales dataset (CSV format) -> https://www.kaggle.com/datasets/mohamed38/superstoredataset
 
 📌 Conclusion
 
