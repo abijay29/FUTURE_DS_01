@@ -51,7 +51,7 @@ Certain regions and cities contribute disproportionately to total revenue.
 
 📂 Dataset
 
-Public e-commerce sales dataset (CSV format) -> https://www.kaggle.com/datasets/mohamed38/superstoredataset
+Superstore dataset (CSV format) -> https://www.kaggle.com/datasets/mohamed38/superstoredataset
 
 📌 Conclusion
 
